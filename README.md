@@ -80,6 +80,8 @@ When running `python3 test.py`, it'll test every available service. This is good
 > About.me is a personal branding platform that allows individuals to create a centralized online profile, showcasing their professional background, interests, and social media presence.
 ### bandcamp
 > Bandcamp.com is a music-focused platform that empowers independent artists to showcase, sell, and distribute their music directly to fans, fostering a supportive and direct connection between musicians and their audience.
+### bebee
+> BeBee.com is a professional networking platform that combines elements of social media and job searching, allowing users to showcase their personal brand, connect with industry professionals, and discover career opportunities in a vibrant community.
 ### behance
 > Behance.net is a leading online platform for creative professionals, where artists, designers, and creators can showcase their portfolios, gain exposure, and connect with potential clients and collaborators.
 ### blipfm
@@ -104,6 +106,8 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Dribbble.com is an online community and platform for designers, providing a space to showcase their creative work, gain inspiration, and connect with other design professionals and potential clients.
 ### ello
 > Ello.co is a social networking platform that emphasizes ad-free, creative expression and community engagement, providing a space for artists, designers, and enthusiasts to share their work and connect with like-minded individuals.
+### elpha
+> Elpha.com is an online community and platform designed for women in tech and entrepreneurship, providing a supportive space for networking, mentorship, and knowledge sharing to empower women in their professional journeys.
 ### etsy
 > Etsy.com is an online marketplace that connects independent sellers and buyers, offering a wide range of unique and handmade products, vintage items, and craft supplies.
 ### flickr
@@ -134,12 +138,16 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Kongregate.com is an online gaming platform that offers a vast collection of free-to-play games, ranging from casual to more complex genres, providing an entertaining and community-driven gaming experience.
 ### lastfm
 > Last.fm is a music streaming and recommendation platform that tracks users' listening habits, provides personalized music recommendations, and connects music enthusiasts with similar tastes in an engaging online community.
+### likee
+> Likee.video is a dynamic short video platform that allows users to create and share creative videos, discover trending content, and engage with a global community through innovative video editing features and interactive challenges.
 ### linktree
 > Linktr.ee is a popular link management tool that allows users, particularly content creators and businesses, to create a customizable landing page containing multiple links to various online platforms and resources.
 ### livejournal
 > LiveJournal.com is a long-standing blogging platform that combines social networking features, allowing users to publish personal journal entries, connect with friends, and participate in communities, fostering online expression and interaction.
 ### medium
 > Medium.com is a popular online publishing platform where writers, journalists, and experts can share their articles and stories with a wide audience, while fostering a community of readers and facilitating thoughtful discussions.
+### mix
+> Mix.com is a content discovery platform that personalizes and recommends articles, videos, and other web content based on users' interests, providing a convenient way to explore and save interesting content from across the web.
 ### newgrounds
 > Newgrounds.com is an online entertainment platform that hosts user-generated content such as animations, games, and artwork, providing a space for creativity and community interaction within the digital arts.
 ### pastebin
@@ -148,14 +156,20 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Patreon.com is a membership platform that enables creators to receive recurring financial support from their fans and followers, allowing them to monetize their content and engage with a dedicated community.
 ### paypal
 > PayPal.me is a personalized payment link service provided by PayPal, allowing users to easily request and receive money from others by sharing a unique link associated with their PayPal account.
+### picsart
+> PicsArt.com is a popular creative platform that offers a suite of powerful photo editing tools, artistic filters, and a vibrant community for users to explore, enhance, and share their photos and digital artwork.
 ### pinterest
 > Pinterest.com is a visually-focused social media platform where users can discover, save, and share inspiring ideas and images across a wide range of interests and topics.
+### quora
+> Quora.com is a question-and-answer platform where users can ask questions, share knowledge, and engage in discussions on a wide range of topics, tapping into the collective wisdom and expertise of a diverse community.
 ### reverbnation
 > ReverbNation.com is a music-focused platform that provides tools for artists to promote their music, connect with fans, book gigs, and access industry opportunities, supporting independent musicians in their career development.
 ### roblox
 > Roblox.com is an immersive online platform that allows users to create, play, and share games and virtual experiences, fostering a vibrant community of game developers and players.
 ### scribd
 > Scribd.com is a digital library and document sharing platform offering a vast collection of books, audiobooks, magazines, and documents, accessible through a subscription model, providing a comprehensive resource for reading and research.
+### skyrock
+> Skyrock.com is a social networking platform that allows users to create personalized blogs, share multimedia content, and connect with a community of users with shared interests.
 ### slack
 > Slack.com is a widely-used collaboration platform that facilitates team communication, file sharing, and project management, enhancing productivity and streamlining workflows for organizations of all sizes.
 ### slideshare
@@ -166,6 +180,8 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Spotify.com is a leading music streaming platform that offers a vast library of songs, podcasts, and audio content, allowing users to discover, stream, and create personalized playlists tailored to their musical preferences.
 ### steamcommunity
 > Steamcommunity.com is a social hub integrated with the Steam gaming platform, enabling gamers to connect, share content, join communities, and engage in discussions related to gaming and game development.
+### steemit
+> Steemit.com is a blockchain-based social media platform where users can create, curate, and engage with content, earning cryptocurrency rewards for their contributions.
 ### tiktok
 > TikTok.com is a highly engaging video-sharing platform known for its short-form and creative content, where users can create, discover, and share entertaining videos across a wide range of topics and trends.
 ### trakttv
@@ -174,6 +190,8 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Tumblr.com is a microblogging and social media platform where users can create and share multimedia posts, follow other blogs, and engage in a community that spans a diverse range of interests and creative expression.
 ### twitch
 > Twitch.tv is a popular live streaming platform primarily focused on video game streaming and esports content, but also encompassing a wide range of creative arts and entertainment categories.
+### untappd
+> Untappd.com is a social networking platform for beer enthusiasts, allowing users to discover, rate, and share their favorite beers, explore new breweries, and connect with fellow beer lovers.
 ### vimeo
 > Vimeo.com is a video-sharing platform that focuses on high-quality and creative content, providing a space for artists, filmmakers, and professionals to showcase their work and connect with a community of like-minded individuals.
 ### vk
