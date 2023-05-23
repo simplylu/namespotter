@@ -235,7 +235,51 @@ tests: Dict[str, Dict[str, str]] = {
   "colourlovers": {
     "existing_user": "Trixxie",
     "nonexisting_user": "Trixxielkasdlkasd"
-  }
+  },
+  "quora": {
+    "existing_user": "Hannes",
+    "nonexisting_user": "Hanneslkasdlkasd"
+  },
+  "picsart": {
+    "existing_user": "oriartbr",
+    "nonexisting_user": "oriartbrlkasdlkasd"
+  },
+  "likee": {
+    "existing_user": "rezo",
+    "nonexisting_user": "rezolkasdlkasd"
+  },
+  "untappd": {
+    "existing_user": "shanecmiller",
+    "nonexisting_user": "shanecmillerlkasdlkasd"
+  },
+  "elpha": {
+    "existing_user": "sophiavaldez",
+    "nonexisting_user": "sophiavaldezlkasdlkasd"
+  },
+  "steemit": {
+    "existing_user": "rezo",
+    "nonexisting_user": "rezolkasdlkasd"
+  },
+  "bebee": {
+    "existing_user": "ana-filgueira",
+    "nonexisting_user": "ana-filgueiralkasdlkasd"
+  },
+  "fark": {
+    "existing_user": "Sliding Carp",
+    "nonexisting_user": "Sliding Carplkasdlkasd"
+  },
+  "mix": {
+    "existing_user": "rezo",
+    "nonexisting_user": "rezolkasdlkasd"
+  },
+  "skyrock": {
+    "existing_user": "katchann",
+    "nonexisting_user": "katchannlkasdlkasd"
+  },
+  "influenster": {
+    "existing_user": "summah",
+    "nonexisting_user": "summahlkasdlkasd"
+  },
 }
 
 

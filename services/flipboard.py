@@ -9,5 +9,4 @@ def check(username: str) -> Tuple[bool, str]:
   req: requests.Response = requests.head(url, headers={
     "User-Agent": "curl/8.0.1"
   })
-  open("yes.html", "w").write(req.text)
   return (req.status_code // 100 < 4, url)
