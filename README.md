@@ -1,3 +1,7 @@
+> Changes upcoming... Will restructure the whole project (YAML definition of services instead of plenty of files that contain basically the same lines of code). Also, not only scanning for existent usernames will be possible, but also, to extract possibly interesting information from each service. Translation into YAML syntax will take a while. Stay tuned.
+
+---
+
 # NameSpotter
 NameSpotter is a powerful but easy Python program designed to efficiently scan multiple websites and social media platforms to check the availability of a specific username. Utilizing the power of multithreading, NameSpotter maximizes performance by concurrently scanning dozens of websites, allowing you to quickly determine if a username is registered or available.
 
