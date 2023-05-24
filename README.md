@@ -43,6 +43,8 @@ Currently, there are problems to implement checks for the following services. Fe
 - tripadvisor.com (Implemented, curl logic does work, but in Python the requests are timing out.)
 - creativemarket.com (CloudFront / Cloudflare...)
 
+There are a couple of services in `/services` that start with an underscore. Those are ignored by the program and most probably services, that have been implemented, but do not work for any reason. Feel free to check them out and make them work.
+
 ## Contribute a new Service
 This is a blueprint of a new service. Copy it to a new file in `/services`.:
 ```py
@@ -90,10 +92,14 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Blogspot.com, also known as Blogger, is a popular blogging platform that enables users to create and publish their own blogs with ease, offering various customization options and integration with Google services.
 ### buzzfeed
 > Buzzfeed.com is a digital media platform known for its entertaining and shareable content, offering a mix of news, quizzes, lists, and viral articles that cater to a wide range of interests and pop culture trends.
+### campsite
+> Campsite.bio is an all-in-one link management platform designed for creators, influencers, and businesses, allowing them to create a customizable landing page with multiple links, social media profiles, and promotional content to enhance their online presence and engagement.
 ### cashapp
 > Cash.me (now known as Cash App) is a mobile payment platform that enables users to send and receive money, make purchases, and manage their finances through a simple and user-friendly interface.
 ### colourlovers
 > Colourlovers.com is a vibrant online community and resource for color inspiration, providing a platform for users to explore, create, and share color palettes, patterns, and designs.
+### contactinbio
+> Contactin.bio is a comprehensive contact management platform that allows users to create a customized landing page with multiple contact options, making it easy for others to connect with them through various communication channels.
 ### dailymotion
 > Dailymotion.com is a video-sharing platform that offers a diverse range of user-generated and professional content, allowing users to discover, watch, and share videos across various topics and genres.
 ### designspiration
@@ -102,6 +108,8 @@ When running `python3 test.py`, it'll test every available service. This is good
 > DeviantArt.com is an online community and art platform that enables artists of various genres to showcase their artwork, connect with fellow creators, and engage in a supportive environment for artistic expression and appreciation.
 ### disqus
 > Disqus.com is a widely-used commenting platform that allows website owners to integrate a robust and interactive commenting system into their websites, fostering engagement and discussion among visitors.
+### douban
+> Douban.com is a Chinese social networking platform that combines elements of film, book, and music reviews, fostering discussions and recommendations among users based on their shared interests.
 ### dribble
 > Dribbble.com is an online community and platform for designers, providing a space to showcase their creative work, gain inspiration, and connect with other design professionals and potential clients.
 ### ello
@@ -114,6 +122,10 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Flickr.com is a popular photo-sharing platform that enables users to upload, organize, and share their images with others, while also providing a vibrant community for photography enthusiasts to discover and engage with diverse visual content.
 ### flipboard
 > Flipboard.com is a personalized news aggregation platform that curates and delivers articles, stories, and multimedia content based on users' interests, allowing for a tailored and immersive reading experience.
+### gaiaonline
+> GaiaOnline.com is an online community and virtual world where users can create avatars, engage in role-playing, and interact with other members through forums, games, and various social activities.
+### giphy
+> YouTube.com is a widely-used video-sharing platform that allows users to upload, watch, and interact with a vast array of user-generated and professional content spanning various topics and genres.
 ### github
 > Github.com is a widely-used web-based platform that provides hosting for software development projects, allowing developers to collaborate, version control their code, and track issues in a streamlined and accessible manner.
 ### goodreads
@@ -132,22 +144,34 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Instagram.com is a popular social media platform that emphasizes visual content, enabling users to share photos and videos, discover creative inspiration, and engage with a global community.
 ### instructables
 > Instructables.com is a platform that allows users to discover, create, and share step-by-step DIY projects and tutorials across a wide range of topics, promoting creativity and knowledge-sharing in a vibrant community.
+### italki
+> italki.com is an online language learning platform that connects language learners with qualified tutors for personalized language lessons through video chat, helping users improve their language skills from the comfort of their own homes.
 ### keybase
 > Keybase.io is a platform that combines encrypted messaging, file sharing, and identity verification, providing a secure and user-friendly environment for communication and collaboration.
 ### kongregate
 > Kongregate.com is an online gaming platform that offers a vast collection of free-to-play games, ranging from casual to more complex genres, providing an entertaining and community-driven gaming experience.
 ### lastfm
 > Last.fm is a music streaming and recommendation platform that tracks users' listening habits, provides personalized music recommendations, and connects music enthusiasts with similar tastes in an engaging online community.
+### letterboxd
+> Letterboxd.com is a film-focused social networking platform that allows users to discover, rate, and review movies, create personalized film diaries, and engage in discussions with a passionate community of cinephiles.
 ### likee
 > Likee.video is a dynamic short video platform that allows users to create and share creative videos, discover trending content, and engage with a global community through innovative video editing features and interactive challenges.
 ### linktree
 > Linktr.ee is a popular link management tool that allows users, particularly content creators and businesses, to create a customizable landing page containing multiple links to various online platforms and resources.
 ### livejournal
 > LiveJournal.com is a long-standing blogging platform that combines social networking features, allowing users to publish personal journal entries, connect with friends, and participate in communities, fostering online expression and interaction.
+### lnkbio
+> Lnk.bio is a link management platform that allows users to create a customized landing page with multiple links, making it easier to share and navigate various online profiles and content in one central location.
 ### medium
 > Medium.com is a popular online publishing platform where writers, journalists, and experts can share their articles and stories with a wide audience, while fostering a community of readers and facilitating thoughtful discussions.
+### milkshake
+> Milkshake.app is a user-friendly mobile website builder that enables users to create stylish and personalized single-page websites directly from their smartphones, perfect for showcasing portfolios, businesses, and personal brands.
 ### mix
 > Mix.com is a content discovery platform that personalizes and recommends articles, videos, and other web content based on users' interests, providing a convenient way to explore and save interesting content from across the web.
+### myanimelist
+> MyAnimeList.com is a popular online platform for anime and manga enthusiasts, offering a comprehensive database, user reviews, and community features to discover, track, and discuss their favorite anime and manga titles.
+### myspace
+> Myspace.com is a former social networking platform that gained popularity in the early 2000s, allowing users to create personal profiles, connect with friends, and discover music and entertainment content.
 ### newgrounds
 > Newgrounds.com is an online entertainment platform that hosts user-generated content such as animations, games, and artwork, providing a space for creativity and community interaction within the digital arts.
 ### pastebin
@@ -166,6 +190,8 @@ When running `python3 test.py`, it'll test every available service. This is good
 > ReverbNation.com is a music-focused platform that provides tools for artists to promote their music, connect with fans, book gigs, and access industry opportunities, supporting independent musicians in their career development.
 ### roblox
 > Roblox.com is an immersive online platform that allows users to create, play, and share games and virtual experiences, fostering a vibrant community of game developers and players.
+### rumble
+> Rumble.com is a video-sharing platform that emphasizes user-generated content, allowing creators to upload, share, and monetize their videos while offering a diverse range of content for viewers to explore.
 ### scribd
 > Scribd.com is a digital library and document sharing platform offering a vast collection of books, audiobooks, magazines, and documents, accessible through a subscription model, providing a comprehensive resource for reading and research.
 ### skyrock
@@ -182,6 +208,8 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Steamcommunity.com is a social hub integrated with the Steam gaming platform, enabling gamers to connect, share content, join communities, and engage in discussions related to gaming and game development.
 ### steemit
 > Steemit.com is a blockchain-based social media platform where users can create, curate, and engage with content, earning cryptocurrency rewards for their contributions.
+### substack
+> Substack.com is a newsletter platform that empowers writers and journalists to publish and monetize their content directly, fostering a direct connection with their audience and providing a subscription-based model for readers.
 ### tiktok
 > TikTok.com is a highly engaging video-sharing platform known for its short-form and creative content, where users can create, discover, and share entertaining videos across a wide range of topics and trends.
 ### trakttv
@@ -202,6 +230,8 @@ When running `python3 test.py`, it'll test every available service. This is good
 > Wikipedia.org is a vast collaborative online encyclopedia that provides free, reliable, and crowdsourced information on an extensive range of subjects.
 ### wordpress
 > WordPress.com is a user-friendly online platform that allows individuals and businesses to create and host websites or blogs without the need for advanced coding knowledge.
+### xing
+> Xing.com is a professional networking platform that facilitates business connections, career development, and industry networking, enabling users to showcase their professional profiles and engage with a global community of professionals.
 ### ycombinator
 > News.ycombinator.com is a community-driven platform that features a curated selection of technology news, articles, and discussions, showcasing the latest developments and insights from the tech industry and beyond.
 ### youtube

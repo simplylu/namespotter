@@ -280,6 +280,66 @@ tests: Dict[str, Dict[str, str]] = {
     "existing_user": "summah",
     "nonexisting_user": "summahlkasdlkasd"
   },
+  "gaiaonline": {
+    "existing_user": "chronicfaerie",
+    "nonexisting_user": "chronicfaerielkasdlkasd"
+  },
+  "italki": {
+    "existing_user": "Lauma",
+    "nonexisting_user": "Laumalkasdlkasd"
+  },
+  "xing": {
+    "existing_user": "Elisabeth_Ehlert",
+    "nonexisting_user": "Elisabeth_Ehlertlkasdlkasd"
+  },
+  "giphy": {
+    "existing_user": "foxhorror",
+    "nonexisting_user": "foxhorrorlkasdlkasd"
+  },
+  "douban": {
+    "existing_user": "chaozhen_1314",
+    "nonexisting_user": "chaozhen_1314lkasdlkasd"
+  },
+  "myspace": {
+    "existing_user": "rezo",
+    "nonexisting_user": "rezolkasdlkasd"
+  },
+  "letterboxd": {
+    "existing_user": "rezo",
+    "nonexisting_user": "rezolkasdlkasd"
+  },
+  # "polywork": {
+  #   "existing_user": "shanecuffy",
+  #   "nonexisting_user": "shanecuffylkasdlkasd"
+  # },
+  "myanimelist": {
+    "existing_user": "NomineMalum",
+    "nonexisting_user": "NomineMalumlkasdlkasd"
+  },
+  "rumble": {
+    "existing_user": "erezo",
+    "nonexisting_user": "erezolkasdlkasd"
+  },
+  "substack": {
+    "existing_user": "pragmaticengineer",
+    "nonexisting_user": "pragmaticengineerlkasdlkasd"
+  },
+  "lnkbio": {
+    "existing_user": "hannah",
+    "nonexisting_user": "hannahlkasdlkasd"
+  },
+  "milkshake": {
+    "existing_user": "hannah",
+    "nonexisting_user": "hannahlkasdlkasd"
+  },
+  "campsite": {
+    "existing_user": "hannah",
+    "nonexisting_user": "hannahlkasdlkasd"
+  },
+  "contactinbio": {
+    "existing_user": "hans",
+    "nonexisting_user": "hanslkasdlkasd"
+  }
 }
 
 
