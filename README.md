@@ -1,3 +1,5 @@
+> **I just figured out, that sherlock is basically doing the same, defining everything in a big JSON file and parsing it... Maybe I'll steal missing services from their repository. BUT: They cannot extract data. But namespotter can do it. Not now, but in the near future. Currently figuring out issues and finetuning existing services. Stay tuned and give it a chance, you may love it!**
+
 > Changes upcoming... Will restructure the whole project (YAML definition of services instead of plenty of files that contain basically the same lines of code). Also, not only scanning for existent usernames will be possible, but also, to extract possibly interesting information from each service. Translation into YAML syntax will take a while. Stay tuned.
 
 ---
